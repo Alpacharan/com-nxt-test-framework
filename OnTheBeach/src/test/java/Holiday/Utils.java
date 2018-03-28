@@ -20,8 +20,6 @@ public class Utils extends Base{
             je.executeScript("arguments[0].scrollIntoView(true);",element);
 
         }
-		public void screenshot(){
-		}
     }
 
 
