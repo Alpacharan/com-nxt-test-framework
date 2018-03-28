@@ -20,9 +20,9 @@ public class Hooks {
     /*public void tearDown(Scenario scenario) {
         if (scenario.isFailed()) {
             utils.capScreenshot("Screenshot");
-        }*/
-        base.closeBrowser();
-    
+        }
+        //base.closeBrowser();
+    }*/
 }
 
 
